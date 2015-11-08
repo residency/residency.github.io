@@ -1301,3 +1301,10 @@ h3.heading-progress{
 .tip{
     margin-bottom: 2em;
 }
+
+.park-hyatt-tokyo{
+    background: url(../img/park-hyatt-tokyo.jpg);
+}
+.park-hyatt-tokyo-area{
+    margin-bottom: 250px;
+}
