@@ -1298,13 +1298,19 @@ h3.heading-progress{
     font-weight: 200;
     text-transform: uppercase;
 }
+
 .tip{
     margin-bottom: 2em;
+}
+
+.andaz-5th-avenue{
+    background: url(../img/andaz-5th-avenue.jpg);
 }
 
 .park-hyatt-tokyo{
     background: url(../img/park-hyatt-tokyo.jpg);
 }
-.park-hyatt-tokyo-area{
+
+.hotel-area{
     margin-bottom: 250px;
 }
