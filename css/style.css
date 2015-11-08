@@ -1305,12 +1305,19 @@ h3.heading-progress{
 
 .andaz-5th-avenue{
     background: url(../img/andaz-5th-avenue.jpg);
+    background-size:100%;
 }
 
 .park-hyatt-tokyo{
     background: url(../img/park-hyatt-tokyo.jpg);
+    background-size:100%;
 }
 
-.hotel-area{
+.ona-brixton{
+    background: url(../img/ona-brixton.jpg);
+    background-size:100%;
+}
+
+.banner-area{
     margin-bottom: 250px;
 }
