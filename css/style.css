@@ -1300,7 +1300,7 @@ h3.heading-progress{
 }
 
 .tip{
-    margin-bottom: 2em;
+    margin-bottom: 1.5em;
 }
 
 .andaz-5th-avenue{
@@ -1308,8 +1308,18 @@ h3.heading-progress{
     background-size:100%;
 }
 
+.grand-hyatt-sao-paulo{
+    background: url(../img/grand-hyatt-sao-paulo.jpg);
+    background-size:100%;
+}
+
 .park-hyatt-tokyo{
     background: url(../img/park-hyatt-tokyo.jpg);
+    background-size:100%;
+}
+
+.park-hyatt-tokyo-room{
+    background: url(../img/park-hyatt-tokyo-room.jpg);
     background-size:100%;
 }
 
