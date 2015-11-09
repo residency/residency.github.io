@@ -1308,8 +1308,18 @@ h3.heading-progress{
     background-size:100%;
 }
 
+.andaz-tokyo-toranomon-hills{
+    background: url(../img/andaz-tokyo-toranomon-hills.jpg);
+    background-size:100%;
+}
+
 .audeze{
     background: url(../img/audeze.jpg);
+    background-size:100%;
+}
+
+.fish-river-lodge{
+    background: url(../img/fish-river-lodge.jpg);
     background-size:100%;
 }
 
@@ -1318,13 +1328,28 @@ h3.heading-progress{
     background-size:100%;
 }
 
+.hyatt-regency-hakone{
+    background: url(../img/hyatt-regency-hakone.jpg);
+    background-size:100%;
+}
+
 .hyatt-regency-kyoto{
     background: url(../img/hyatt-regency-kyoto.jpg);
     background-size:100%;
 }
 
+.park-hyatt-hamburg{
+    background: url(../img/park-hyatt-hamburg.jpg);
+    background-size:100%;
+}
+
 .park-hyatt-paris-vendome{
     background: url(../img/park-hyatt-paris-vendome.jpg);
+    background-size:100%;
+}
+
+.park-hyatt-shanghai{
+    background: url(../img/park-hyatt-shanghai.jpg);
     background-size:100%;
 }
 
